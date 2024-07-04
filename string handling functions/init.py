@@ -1,4 +1,4 @@
-#__innit__ function is used to assign value to variables in this case f1 & f2
+#__init__ function is used to assign value to variables in this case f1 & f2
 class fruit:
   def __init__(self, f1, f2):
     self.f1 = f1
