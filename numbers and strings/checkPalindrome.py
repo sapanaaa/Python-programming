@@ -1,4 +1,4 @@
-#code 3 to check if the number is palindrome or not
+#code 5 to check if the number is palindrome or not
 #the logic here i used is checking if inputted number is equal to reversed number
 
 
