@@ -1,4 +1,4 @@
-#to check whether a string is palindrome or not
+#code 3: to check whether a string is palindrome or not
 def revString(st):
     rev=''
     for i in st:
