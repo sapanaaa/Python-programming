@@ -1,2 +1,2 @@
 # Python Learning <br>
-Basics of Python
+Basics of Python Programming
